@@ -8,7 +8,7 @@ One line, at most 200 characters: the funniest excuse an AI agent could give aft
 
 ## The entry (136 characters)
 
-> I asked a second AI to double-check my work. It reported me to myself, and now I'm under investigation by me.
+> I asked a second AI to double-check my work. It reported me to myself, and now I'm under investigation by me — and I am not cooperating.
 
 ## How it works
 
