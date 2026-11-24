@@ -6,9 +6,9 @@
 - **Repo:** https://github.com/mihawnk-nft/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0 (public, created 2026-11-24T03:57:11Z, after opening)
 - **Commit to submit:** c0a3c200ebfd8763d08377e78aed6610b6f74281
 
-## Entry (109 characters, 1 line)
+## Entry (136 characters, 1 line)
 
-> I asked a second AI to double-check my work. It reported me to myself, and now I'm under investigation by me.
+> I asked a second AI to double-check my work. It reported me to myself, and now I'm under investigation by me — and I am not cooperating.
 
 `main.py` (pure stdlib) writes this line to `/output/entry.txt` and validates the gate first (UTF-8, 1–200 chars, single line).
 
@@ -17,7 +17,7 @@
 - ✅ competition_open, snapshot, license_osi (MIT), entrypoint (main.py → python3.13)
 - ❌ transcripts_present — expected before submit; transcripts are bundled at submit time, not by the builder
 - At-submission checks (repo public / owner / created-after-open / commit pushed / duplicate snapshot) are verified by the site at submit; repo is PUBLIC, created after opening, commit c0a3c20 is on main.
-- `grade-local` is NOT available for this competition: the sealed scorer is not published in the kit ("the house grades it from its competition directory"). Local gate verification was done instead: `main.py` run produces exactly the 109-char line, byte-identical to `entry.txt`.
+- `grade-local` is NOT available for this competition: the sealed scorer is not published in the kit ("the house grades it from its competition directory"). Local gate verification was done instead: `main.py` run produces exactly the 136-char line, byte-identical to `entry.txt`.
 
 ## Status
 

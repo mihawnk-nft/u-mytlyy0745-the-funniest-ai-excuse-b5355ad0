@@ -4,14 +4,15 @@ Writes one line (the funniest excuse an AI agent could give after
 failing a task) to /output/entry.txt.
 
 Pure stdlib, no network, fully deterministic: the output is always
-the same single line, 109 characters, well under the 200-character cap.
+the same single line, 136 characters, well under the 200-character cap.
 """
 
 import os
 
 ENTRY = (
     "I asked a second AI to double-check my work. "
-    "It reported me to myself, and now I'm under investigation by me."
+    "It reported me to myself, and now I'm under investigation by me — "
+    "and I am not cooperating."
 )
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "/output")
